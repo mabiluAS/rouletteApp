@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mabil\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mabil\\.nuget\\packages"
+    ]
+  }
+}
